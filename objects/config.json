@@ -1,0 +1,7 @@
+{
+   "prefix": "!",
+   "token": "bot token",
+   "api": "Riot api key",
+   "clientId": "client id",
+   "guildId": "guild id"
+}
