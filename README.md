@@ -2,7 +2,7 @@
 
 <p align="center">
 	<br>
-	<a href="https://discord.gg/Xm6PTeWNfXx">
+	<a href="https://discord.gg/yXFHYjUFq8">
 		<img alt="Discord Help Server" src="https://discordapp.com/api/guilds/1066284590370668675/embed.png?style=banner2">
 	</a>
 </p>
